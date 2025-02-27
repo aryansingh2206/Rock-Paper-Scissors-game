@@ -26,9 +26,6 @@ A simple yet modern **Rock, Paper, Scissors** game built with HTML, CSS, and Jav
 - **CSS** – Styling & Animations  
 - **JavaScript** – Game Logic  
 
-## 📸 Screenshots  
-*(Add screenshots here if available)*  
-
 ## 🏗️ Installation  
 1. Clone the repository:  
    ```sh
